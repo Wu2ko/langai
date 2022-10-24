@@ -70,22 +70,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
             }
 
 
-            /*if (double.TryParse(Console.ReadLine(), out double width))
-            {
-                if (width>0)
-                {
-                    Console.WriteLine("Can't be zero");
-                }
-
-            }
-            else
-            {
-                Console.WriteLine("Not a number, try again: ");
-                
-            }
-            */
-            // double plotis = width * 2;
-            //Console.WriteLine(plotis);
 
         }
     }
